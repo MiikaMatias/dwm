@@ -20,10 +20,10 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "🌐", "2", "3", "4", "5"};
+static const char *tags[] = { "🌐", "☝️🤓", "❓", "❓", "💬"};
 
 static const Rule rules[] = {
-	/* xprop(1):
+	/* xprop(1)
 	 *	WM_CLASS(STRING) = instance, class
 	 *	WM_NAME(STRING) = title
 	 */
